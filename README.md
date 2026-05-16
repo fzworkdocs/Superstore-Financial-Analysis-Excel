@@ -1,11 +1,11 @@
-# 📊 Superstore Financial Analysis (Excel Project)
+# Superstore Financial Analysis (Excel Project)
 
-## 📌 Project Overview
+## Project Overview
 This project is an end-to-end financial analysis of the Superstore dataset using advanced Excel tools. The goal was to analyze sales, profit, and operational performance and build an interactive dashboard for decision-making.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze overall financial performance (Sales, Profit, Revenue trends)
 - Identify loss-making segments and products
 - Evaluate the impact of discount on profit
@@ -14,7 +14,7 @@ This project is an end-to-end financial analysis of the Superstore dataset using
 
 ---
 
-## 🛠️ Tools & Skills Used
+## Tools & Skills Used
 - Microsoft Excel
 - Power Query (ETL)
 - Pivot Tables & Pivot Charts
@@ -25,13 +25,13 @@ This project is an end-to-end financial analysis of the Superstore dataset using
 
 ---
 
-## 📂 Dataset
+## Dataset
 - Superstore dataset (CSV format)
 - Contains sales, customer, shipping, and product data
 
 ---
 
-## 📊 Key Analysis Performed
+## Key Analysis Performed
 
 ### 1. Financial Performance
 - Total Sales, Total Profit, Profit Margin
@@ -51,7 +51,7 @@ This project is an end-to-end financial analysis of the Superstore dataset using
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 - Interactive filters (State)
 - KPI Cards (Sales, Profit(2016 vs 2017),Profit Margin,Ontime Delivery Rate)
 - Trend Analysis (Monthly)
@@ -59,7 +59,7 @@ This project is an end-to-end financial analysis of the Superstore dataset using
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 - High discounts negatively impact profit
 - Some categories generate high sales but low profit
 - Delivery delays impact customer satisfaction
@@ -67,7 +67,7 @@ This project is an end-to-end financial analysis of the Superstore dataset using
 
 ---
 
-## 🚀 Business Recommendations
+## Business Recommendations
 - Optimize discount strategy
 - Focus on high-profit products
 - Improve shipping efficiency
@@ -75,12 +75,12 @@ This project is an end-to-end financial analysis of the Superstore dataset using
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 ![Dashboard](preview/Dashboard_preview.png)
 
 ---
 
-## 📁 Files Included
+## Files Included
 - `data/` → Raw dataset (CSV)
 - `dashboard/` → Excel dashboard (download to view)
 - `report/` → Detailed Word report
@@ -88,9 +88,9 @@ This project is an end-to-end financial analysis of the Superstore dataset using
 
 ---
 
-## 📬 Author
+## Author
 Faiza
 
 ---
-> ⚠️ Note: Due to file size, GitHub cannot preview the Excel dashboard. Please download the file to view the full interactive dashboard.
-⭐ If you like this project, feel free to star the repo!
+> Note: Due to file size, GitHub cannot preview the Excel dashboard. Please download the file to view the full interactive dashboard.
+> If you like this project, feel free to star the repo!
